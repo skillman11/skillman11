@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skillman11
 - 👀 I’m interested in learning JSON and RESTful APIs
 - 🌱 I’m currently learning  API basics
-<- 💞️ I’m looking to collaborate on>
+<!--- 💞️ I’m looking to collaborate on--->
 - 📫 How to reach me ...skillman11@gmail.com
 
 <!---
